@@ -32,3 +32,22 @@ Enter shift value (number): 4
 Original Message : Confidential Data Transfer
 Encrypted Message: Gsrmhjepgl Hete Xvsrwjiv
 Decrypted Message: Confidential Data Transfer
+
+
+
+
+## Installation
+
+1. Make sure **Python 3.x** is installed on your system.
+2. Download or clone this repository:
+
+```bash
+git clone https://github.com/rohitnikumbexig-max/caesar-cipher.git
+Navigate into the project folder:
+
+cd caesar-cipher
+
+
+Run the program:
+
+python caesar_cipher.py
