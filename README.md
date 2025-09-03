@@ -25,4 +25,10 @@ It allows users to input a message and a shift value to perform encryption and d
 ---
 
 ## Example
+Enter your message: Confidential Data Transfer
+Enter shift value (number): 4
 
+--- Results ---
+Original Message : Confidential Data Transfer
+Encrypted Message: Gsrmhjepgl Hete Xvsrwjiv
+Decrypted Message: Confidential Data Transfer
